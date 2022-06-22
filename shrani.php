@@ -1,3 +1,3 @@
 <?php
-	$servername = dfdfd
+	$servername = spremenjenoPullOK?
 ?>
