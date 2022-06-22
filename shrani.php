@@ -1,3 +1,3 @@
 <?php
-	$servername = 
+	$servername = dfdf
 ?>
