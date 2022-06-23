@@ -1,3 +1,3 @@
 <?php
-	$servername = spremenjenoPullOK?
+	$servername = spremenjenoPullOK?delatudinaLaptopuzdaj?
 ?>
